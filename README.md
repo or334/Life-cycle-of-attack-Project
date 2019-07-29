@@ -1,5 +1,4 @@
 # Life Cycle of Attack &amp; Attack tools
-# - Cyber Security Project -
 
 The main goal of the project is to show how hackers think and act 
 through what is known as the &quot;life cycle of attack,&quot; which is the way
